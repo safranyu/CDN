@@ -18,3 +18,8 @@ https://cdn.jsdelivr.net/gh/safranyu/CDN@1.0/base64-binary.js
 [源码地址](https://sourceforge.net/projects/jsclipper/)
 
 clipper_unminified.js 未压缩版
+
+
+## krpano.js
+
+web全景展示方法
